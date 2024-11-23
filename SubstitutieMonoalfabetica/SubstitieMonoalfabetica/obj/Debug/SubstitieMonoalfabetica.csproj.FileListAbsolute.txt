@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitieMonoalfabetica\SubstitieMonoalfabetica\bin\Debug\SubstitieMonoalfabetica.exe.config
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitieMonoalfabetica\SubstitieMonoalfabetica\bin\Debug\SubstitieMonoalfabetica.exe
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitieMonoalfabetica\SubstitieMonoalfabetica\bin\Debug\SubstitieMonoalfabetica.pdb
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitieMonoalfabetica\SubstitieMonoalfabetica\obj\Debug\SubstitieMonoalfabetica.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitieMonoalfabetica\SubstitieMonoalfabetica\obj\Debug\SubstitieMonoalfabetica.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitieMonoalfabetica\SubstitieMonoalfabetica\obj\Debug\SubstitieMonoalfabetica.exe
+C:\Users\Admin\Desktop\TemaCriptografie\SubstitieMonoalfabetica\SubstitieMonoalfabetica\obj\Debug\SubstitieMonoalfabetica.pdb
